@@ -20,6 +20,7 @@ https://is.gd/98qrJK
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 https://186.96.222.105:443/LIVE/CNC3/stream_multi.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
+http://hdhd.tk:80/s0092/s0092/29101
 http://globalstreamz.xyz:5050/stone149@gmail.com/AuMesPyCFC/701274
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg",CNC3 Backup
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/35333
@@ -29,6 +30,7 @@ https://tvnow.best/api/stream/yale/yale/livetv.epg/cnc3.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 https://is.gd/fmas0M
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
+https://131.72.76.184/ttorigin07/live/smil:TV6.smil/chunklist_b4000000.m3u8
 http://globalstreamz.xyz:5050/stone149@gmail.com/AuMesPyCFC/701275
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6 Backup
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/53530
@@ -38,6 +40,7 @@ https://tvnow.best/api/stream/yale/yale/livetv.epg/ccn.tv6.tt.car.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 https://is.gd/jgv8n9
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
+https://131.72.76.184/live/smil:TTT.smil/chunklist_b4000000.m3u8
 http://globalstreamz.xyz:5050/stone149@gmail.com/AuMesPyCFC/701261
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT Backup
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/149591
@@ -1572,332 +1575,188 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT PLUS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png",YES Network
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",A&E
-http://fortv.cc:8080/KP@6720MIR/3052052689/57476
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA A&E 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57264
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",ABC SPARK
-http://fortv.cc:8080/KP@6720MIR/3052052689/57375
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",AMC
-http://fortv.cc:8080/KP@6720MIR/3052052689/57376
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Animal Planet
-http://fortv.cc:8080/KP@6720MIR/3052052689/57377
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",BNN Bloomberg HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57358
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Bravo
-http://fortv.cc:8080/KP@6720MIR/3052052689/57379
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CBC NEWS NETWORK (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57304
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CBC Calgary HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57381
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CBC Charlottetown HD (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57382
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CBC Edmonton
-http://fortv.cc:8080/KP@6720MIR/3052052689/57384
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CBC Halifax HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57385
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CBC Montreal HD (D) 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57387
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CBC OTTAWA
-http://fortv.cc:8080/KP@6720MIR/3052052689/57305
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CBC TORONTO
-http://fortv.cc:8080/KP@6720MIR/3052052689/57306
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CBC Vancouver
-http://fortv.cc:8080/KP@6720MIR/3052052689/57391
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CHCH (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57393
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CHRGD
-http://fortv.cc:8080/KP@6720MIR/3052052689/75653
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CITY TV CALGARY (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/75652
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA City TV Toronto (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57394
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CITY TV VANCOUVER (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57395
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA : APTN
-http://fortv.cc:8080/KP@6720MIR/3052052689/57320
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CMT
-http://fortv.cc:8080/KP@6720MIR/3052052689/57258
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CNN 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57398
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CNN 
-http://fortv.cc:8080/KP@6720MIR/3052052689/47213
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Cottage Life HD (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/47217
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CP24 News HD (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57357
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CP24 News HD (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57401
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CP24 HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57345
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CP24 FHD
-http://fortv.cc:8080/KP@6720MIR/3052052689/47218
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CP24 HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57257
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CPAC
-http://fortv.cc:8080/KP@6720MIR/3052052689/57402
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CPAC English
-http://fortv.cc:8080/KP@6720MIR/3052052689/57352
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CPAC HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57351
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CRAVE 1 HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57309
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CRAVE 2 HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57310
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CRAVE 3
-http://fortv.cc:8080/KP@6720MIR/3052052689/57322
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CRAVE 4 HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57311
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CRIME & INVESTIGATION
-http://fortv.cc:8080/KP@6720MIR/3052052689/57256
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Two Atlantic 
-http://fortv.cc:8080/KP@6720MIR/3052052689/79547
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV CALGARY (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57964
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Comedy Channel 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57408
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Drama Channel (R)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57254
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Edmonton Alberta HD (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/58725
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Halifax Nova Scotia HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57410
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Kitchener 
-http://fortv.cc:8080/KP@6720MIR/3052052689/58557
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV 2 London HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/58546
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Montreal HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/47234
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CTV NEWS CHANNEL HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57350
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CTV OTTAWA
-http://fortv.cc:8080/KP@6720MIR/3052052689/47237
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Regina Saskatchewan HD (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/66381
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Saskatoon Saskatchewan HD (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/66382
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Sci-Fi Channel (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57253
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Toronto HD (R)
-http://fortv.cc:8080/KP@6720MIR/3052052689/47296
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CTV2 Vancouver
-http://fortv.cc:8080/KP@6720MIR/3052052689/57316
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV2 Windsor HD (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/77165
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Barrie Ontario HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57373
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Discovery Channel 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57252
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Discovery Science
-http://fortv.cc:8080/KP@6720MIR/3052052689/57418
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",DIY NETWORK FHD
-http://fortv.cc:8080/KP@6720MIR/3052052689/47258
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",DTOUR HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57250
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA E! (R)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57422
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",E! CANADA HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57249
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Food Network
-http://fortv.cc:8080/KP@6720MIR/3052052689/57247
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA FOX NEWS
-http://fortv.cc:8080/KP@6720MIR/3052052689/47281
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",FX HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57268
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA FXX 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57429
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Game Show Network HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57430
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Ginx esports TV
-http://fortv.cc:8080/KP@6720MIR/3052052689/57431
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global News Kingston (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57432
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Edmonton News (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/58724
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Global Halifax News
-http://fortv.cc:8080/KP@6720MIR/3052052689/57434
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global News Regina (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/66384
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Saskatoon (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/66383
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA GLOBAL TORONTO
-http://fortv.cc:8080/KP@6720MIR/3052052689/57435
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",GLOBAL TORONTO
-http://fortv.cc:8080/KP@6720MIR/3052052689/57302
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Global Vancouver
-http://fortv.cc:8080/KP@6720MIR/3052052689/57436
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Golf Channel HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57362
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",HBO 1 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57437
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA HBO 2 (R)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57438
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA HGTV 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57273
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA HISTORY 
-http://fortv.cc:8080/KP@6720MIR/3052052689/47302
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA HISTORY (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57272
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",HLN
-http://fortv.cc:8080/KP@6720MIR/3052052689/57441
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Investigation Discovery HD (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57442
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Lifetime 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57271
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Lifetime Movie Network
-http://fortv.cc:8080/KP@6720MIR/3052052689/57444
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Love Nature HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/47324
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",MAKEFUL
-http://fortv.cc:8080/KP@6720MIR/3052052689/57270
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",MOVIETIME HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/47331
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA MSNBC (R)
-http://fortv.cc:8080/KP@6720MIR/3052052689/47332
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",MTV
-http://fortv.cc:8080/KP@6720MIR/3052052689/57446
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA MTV2 (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57447
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",MTV HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57368
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",National Geographics
-http://fortv.cc:8080/KP@6720MIR/3052052689/57281
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA National Geographic Wild 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57280
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",NFL NETWORK HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/47346
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA (ZH) NTD (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/58023
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA NTV St. John`s 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57478
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA OLN (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57366
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",OMNI1 HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57365
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA OWN 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57277
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",PBS HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57276
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Peachtree TV HD (R)
-http://fortv.cc:8080/KP@6720MIR/3052052689/47362
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Showcase HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/47366
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Slice TV 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57274
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Smithsonian Channel (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/47369
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Sportsnet 360 (HD)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57299
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Sportsnet East HD (F)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57298
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Sportsnet One (FHD) 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57297
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Sportsnet One (HD) 
-http://fortv.cc:8080/KP@6720MIR/3052052689/47379
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Sportsnet Ontario
-http://fortv.cc:8080/KP@6720MIR/3052052689/57463
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Sportsnet Ontario HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57296
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Sportsnet Pacific HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/47387
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",SPORTSNET WEST
-http://fortv.cc:8080/KP@6720MIR/3052052689/57300
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV SCI-FI 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57464
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA TLC 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57290
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA : The Shopping Channel (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57370
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA TSN 1 (R)
-http://fortv.cc:8080/KP@6720MIR/3052052689/47440
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA TSN 2 HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/47442
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA TSN 3 HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/47444
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA TSN 4 
-http://fortv.cc:8080/KP@6720MIR/3052052689/66783
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA TSN 5 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57467
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",TV Ontario HD
-http://fortv.cc:8080/KP@6720MIR/3052052689/57369
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Vision
-http://fortv.cc:8080/KP@6720MIR/3052052689/57468
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA W Network East (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/57284
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Weather Network Toronto
-http://fortv.cc:8080/KP@6720MIR/3052052689/57470
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",World Fishing Network
-http://fortv.cc:8080/KP@6720MIR/3052052689/57471
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA YES TV 
-http://fortv.cc:8080/KP@6720MIR/3052052689/57472
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Peterborough News (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/85269
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CBC Windsor
-http://fortv.cc:8080/KP@6720MIR/3052052689/86749
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA | BBC EARTH
-http://fortv.cc:8080/KP@6720MIR/3052052689/99621
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Durham (CHEX-DT-2) 
-http://fortv.cc:8080/KP@6720MIR/3052052689/100453
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Sudbury Ontario HD (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/100454
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Timmins Ontario HD (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/100455
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA WILD TV 
-http://fortv.cc:8080/KP@6720MIR/3052052689/100456
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Super Channel Heart & Home 
-http://fortv.cc:8080/KP@6720MIR/3052052689/100460
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CBC Winnipeg
-http://fortv.cc:8080/KP@6720MIR/3052052689/100628
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global News Winnipeg (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/100629
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV WINNIPEG (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/100630
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CITY TV WINNIPEG (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/100631
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Silver Screen (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/107190
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA COOKING Channel 
-http://fortv.cc:8080/KP@6720MIR/3052052689/107960
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",Travel Escape
-http://fortv.cc:8080/KP@6720MIR/3052052689/108136
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global News Calgary (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/111067
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Calgary 
-http://fortv.cc:8080/KP@6720MIR/3052052689/115349
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV LIFE (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/116506
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Dejaview HD (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/122001
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Edmonton (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/132271
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV2 VANCOUVER ISLAND (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/136612
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Montreal HD (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/136640
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Monterial News (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/136641
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Peterborough News (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/137681
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",BBC World News
-http://fortv.cc:8080/KP@6720MIR/3052052689/139752
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA documentary HD (B)
-http://fortv.cc:8080/KP@6720MIR/3052052689/148610
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA Global Maritimes HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/171954
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA HPItv East HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/173131
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV Halifax Nova Scotia HD (D)
-http://fortv.cc:8080/KP@6720MIR/3052052689/188776
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CTV HALIFAX (E)
-http://fortv.cc:8080/KP@6720MIR/3052052689/188777
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA H2 HD 
-http://fortv.cc:8080/KP@6720MIR/3052052689/210450
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",MUCH MUSIC
-http://fortv.cc:8080/KP@6720MIR/3052052689/215268
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA City News Toronto ON
-http://fortv.cc:8080/KP@6720MIR/3052052689/216100
-#EXTINF:-1 group-title="CANADA" tvg-logo="https://toppng.com/uploads/preview/canada-football-logo-png-11536003612yj3bywztra.png",CA CBC  New Brunswick / Fredericton NB 
-http://fortv.cc:8080/KP@6720MIR/3052052689/217655
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/AnimalPlanet.ca.png",Animal Planet 
+http://hdhd.tk:80/s0092/s0092/18639
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://logo.koditvepg.com/CA/american.heroes.ca.png",US American Heroes Channel 
+http://hdhd.tk:80/s0092/s0092/18640
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/NatGeo.ca.png",National Geographic 
+http://hdhd.tk:80/s0092/s0092/18641
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/NatGeoWild.ca.png",National Geographic Wild
+http://hdhd.tk:80/s0092/s0092/18642
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/DocumentaryChannel.ca.png",documentary 
+http://hdhd.tk:80/s0092/s0092/18643
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/FoodNetwork.ca.png",Food Network
+http://hdhd.tk:80/s0092/s0092/18646
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/LoveNature.ca.png",Love Nature
+http://hdhd.tk:80/s0092/s0092/18647
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CrimeInvestigation.ca.png",Crime & Investigation 
+http://hdhd.tk:80/s0092/s0092/18648
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/InvestigationDiscovery.ca.png",Investigation Discovery 
+http://hdhd.tk:80/s0092/s0092/18649
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/DiscoveryVelocity.ca.png",Discovery Velocity 
+http://hdhd.tk:80/s0092/s0092/18650
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/DiscoveryScience.ca.png",DISCOVERY SCIENCE
+http://hdhd.tk:80/s0092/s0092/18651
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/TheShoppingChannel.ca.png",The Shopping Channel 
+http://hdhd.tk:80/s0092/s0092/18652
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SuperChannelHeartHome.ca.png",Super Channel Heart & Home (B)
+http://hdhd.tk:80/s0092/s0092/18654
+#EXTINF:-1 group-title="CANADA" tvg-logo="",TRAVEL ESCAPE
+http://hdhd.tk:80/s0092/s0092/18655
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVNorthernOntario.ca.png",CTV Calgary 
+http://hdhd.tk:80/s0092/s0092/18657
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png",CTV Halifax
+http://hdhd.tk:80/s0092/s0092/18658
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png",CTV Atlantic
+http://hdhd.tk:80/s0092/s0092/18659
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png",CTV Moncton 
+http://hdhd.tk:80/s0092/s0092/18660
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png",CTV Kitchener
+http://hdhd.tk:80/s0092/s0092/18661
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png",CTV Toronto 
+http://hdhd.tk:80/s0092/s0092/18662
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVNorthernOntario.ca.png",CTV Montreal
+http://hdhd.tk:80/s0092/s0092/18663
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVNorthernOntario.ca.png",CTV Regina
+http://hdhd.tk:80/s0092/s0092/18665
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVOttawa.ca.png",CTV Sault Ste. Marie
+http://hdhd.tk:80/s0092/s0092/18666
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVNorthernOntario.ca.png",CTV Sudbury 
+http://hdhd.tk:80/s0092/s0092/18667
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVNorthernOntario.ca.png",CTV Timmins
+http://hdhd.tk:80/s0092/s0092/18669
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVNorthernOntario.ca.png",CTV Vancouver 
+http://hdhd.tk:80/s0092/s0092/18670
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVNorthernOntario.ca.png",CTV Winnipeg
+http://hdhd.tk:80/s0092/s0092/18671
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png",CTV2 Atlantic 
+http://hdhd.tk:80/s0092/s0092/18672
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png",CTV2 Toronto 
+http://hdhd.tk:80/s0092/s0092/18673
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png",CTV2 Vancouver
+http://hdhd.tk:80/s0092/s0092/18674
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png",CTV2 Windsor
+http://hdhd.tk:80/s0092/s0092/18675
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png",CTV2 Barrie 
+http://hdhd.tk:80/s0092/s0092/18676
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png",CTV2 London
+http://hdhd.tk:80/s0092/s0092/18677
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png",CTV 2 Ottawa
+http://hdhd.tk:80/s0092/s0092/18678
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTV2Ottawa.ca.png",CA: CTV2 Alberta
+http://hdhd.tk:80/s0092/s0092/18679
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/GlobalCalgary.ca.png",Global Edmonton
+http://hdhd.tk:80/s0092/s0092/18680
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/GlobalCalgary.ca.png",Global Maritimes 
+http://hdhd.tk:80/s0092/s0092/18681
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/GlobalCalgary.ca.png",CA: Global National (BC1)
+http://hdhd.tk:80/s0092/s0092/18682
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/GlobalMontrealCKMI.ca.png",Global Vancouver
+http://hdhd.tk:80/s0092/s0092/18684
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/GlobalMontrealCKMI.ca.png",Global Toronto
+http://hdhd.tk:80/s0092/s0092/18685
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CityTVSaskatchewan.ca.png",City TV Vancouver
+http://hdhd.tk:80/s0092/s0092/18687
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVLife.ca.png",CTV Life Channel
+http://hdhd.tk:80/s0092/s0092/18689
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVComedy.ca.png",CTV Comedy East
+http://hdhd.tk:80/s0092/s0092/18690
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVDrama.ca.png",CTV Drama 
+http://hdhd.tk:80/s0092/s0092/18692
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CTVSciFi.ca.png",CTV Sci-Fi Channel
+http://hdhd.tk:80/s0092/s0092/18693
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Calgary
+http://hdhd.tk:80/s0092/s0092/18694
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Charlottetown 
+http://hdhd.tk:80/s0092/s0092/18695
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Edmonton
+http://hdhd.tk:80/s0092/s0092/18696
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Fredericton
+http://hdhd.tk:80/s0092/s0092/18697
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Halifax 
+http://hdhd.tk:80/s0092/s0092/18698
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Montreal 
+http://hdhd.tk:80/s0092/s0092/18699
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Ottawa
+http://hdhd.tk:80/s0092/s0092/18700
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Regina 
+http://hdhd.tk:80/s0092/s0092/18701
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC ST.JOHN'S
+http://hdhd.tk:80/s0092/s0092/18702
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Toronto 
+http://hdhd.tk:80/s0092/s0092/18703
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Vancouver
+http://hdhd.tk:80/s0092/s0092/18704
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Windsor
+http://hdhd.tk:80/s0092/s0092/18705
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Winnipeg
+http://hdhd.tk:80/s0092/s0092/18706
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC Yellowknife
+http://hdhd.tk:80/s0092/s0092/18707
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/TSN1.ca.png",TSN1 
+http://hdhd.tk:80/s0092/s0092/18708
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/TSN2.ca.png",TSN2
+http://hdhd.tk:80/s0092/s0092/18709
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/TSN3.ca.png",TSN3
+http://hdhd.tk:80/s0092/s0092/18710
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/TSN4.ca.png",TSN4
+http://hdhd.tk:80/s0092/s0092/18711
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/TSN5.ca.png",TSN5 
+http://hdhd.tk:80/s0092/s0092/18712
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/FoxSportsRacing.ca.png",Fox Sports Racing
+http://hdhd.tk:80/s0092/s0092/18713
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SportsnetWest.ca.png",Sportsnet West
+http://hdhd.tk:80/s0092/s0092/18715
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SportsnetPacific.ca.png",SPORTSNET PACIFIC 
+http://hdhd.tk:80/s0092/s0092/18716
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SportsnetOntario.ca.png",SPORTSNET ONTARIO 
+http://hdhd.tk:80/s0092/s0092/18717
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SportsnetOne.ca.png",SPORTSNET ONE
+http://hdhd.tk:80/s0092/s0092/18718
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SportsnetEast.ca.png",SPORTSNET EAST
+http://hdhd.tk:80/s0092/s0092/18719
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png",Sportsnet 360
+http://hdhd.tk:80/s0092/s0092/18720
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SportsnetWorld.ca.png",Sportsnet World
+http://hdhd.tk:80/s0092/s0092/18721
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/FightNetwork.ca.png",Fight Network 
+http://hdhd.tk:80/s0092/s0092/18723
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/NBATV.ca.png",NBA TV 
+http://hdhd.tk:80/s0092/s0092/18724
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://logo.koditvepg.com/CA/wwe.network.ca.png",WWE Network 
+http://hdhd.tk:80/s0092/s0092/18725
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://logo.koditvepg.com/CA/mlb.network.ca.png",MLB Network
+http://hdhd.tk:80/s0092/s0092/18726
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/HPItv.ca.png",HPItv
+http://hdhd.tk:80/s0092/s0092/18731
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://logo.koditvepg.com/CA/nfl.network.ca.png",NFL Network
+http://hdhd.tk:80/s0092/s0092/18732
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/HBO.ca.png",HBO 1 
+http://hdhd.tk:80/s0092/s0092/18783
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/HBO2.ca.png",HBO 2 
+http://hdhd.tk:80/s0092/s0092/18784
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/us/Starz.us.png",Starz 1
+http://hdhd.tk:80/s0092/s0092/18785
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/us/Starz.us.png",Starz 2 (B)
+http://hdhd.tk:80/s0092/s0092/18786
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/Crave1.ca.png",Crave 1 
+http://hdhd.tk:80/s0092/s0092/18787
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/Crave1.ca.png",Crave 2
+http://hdhd.tk:80/s0092/s0092/18788
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/Crave1.ca.png",Crave 3
+http://hdhd.tk:80/s0092/s0092/18789
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/Crave1.ca.png",Crave 4
+http://hdhd.tk:80/s0092/s0092/18790
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/FXNow.ca.png",FX
+http://hdhd.tk:80/s0092/s0092/18795
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/FXX.ca.png",FXX
+http://hdhd.tk:80/s0092/s0092/18796
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SuperChannelVAULT.ca.png",Super Channel Vault 
+http://hdhd.tk:80/s0092/s0092/18798
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/TurnerClassicMovies.ca.png",Turner Classic Movies HD (R)
+http://hdhd.tk:80/s0092/s0092/18799
+#EXTINF:-1 group-title="CANADA" tvg-logo="https://static.epg.best/ca/SilverScreenClassics.ca.png",Silver Screen Classics 
+http://hdhd.tk:80/s0092/s0092/18801
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="https://lo1.in/us/fox.png",FOX NEWS LIVE NOW
 http://uesztesm.ioiju.com:80/B35DKUNA/M7EAAYCS/1175
