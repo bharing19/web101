@@ -94,7 +94,7 @@ http://streaming.live365.com/a07630
 http://stream.zeno.fm/myrkddsn2uhvv
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://estacionesfm.com/imgfm/imgfm/ee155.png",Platinum Hits 103.5FM
 https://ice42.securenetsystems.net/PLATHITS
-#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cumcooyah.com/wp-content/uploads/job-manager-uploads/main_image/2017/01/Tambrin-2.png",Radio Tambrin 92.7FM
+#EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn.radoxo.com/images/trinidad/radio-tambrin.avif?v=1789030802",Radio Tambrin 92.7FM
 http://ice42.securenetsystems.net/TAMBRIN
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://cdn.instant.audio/images/logos/trinidadradiostations-net/wack.png",WACK Radio 90.1FM
 http://stream.zenolive.com/n3vg32ukh0quv
@@ -1103,7 +1103,7 @@ https://is.gd/XdcC9s
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:LIFETIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://2.bp.blogspot.com/-TnDnZjxMJpU/TboAVkSjbEI/AAAAAAAABCI/i-GNVQDoqrc/s1600/lmn-logo.png",LMN
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:LMN.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://logos-download.com/wp-content/uploads/2016/11/Hallmark_logo_small.png",HALLMARK CHANNEL
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i0.wp.com/media.distractify.com/brand-img/q9AewRUII/1200x628/hallmarkchannel-1608328208479.png",HALLMARK CHANNEL
 https://is.gd/pALPa3
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://cordcuttersnews.com/wp-content/uploads/2019/11/hallmarkmoviesnow-logo-purple-block.png",HALLMARK MOVIES & MYSTERIES
 https://is.gd/w4zcoD
@@ -1123,7 +1123,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:AXN.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPACE.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Syfy.us.png",SYFY
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYFY.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/LAFF_logo.png/200px-LAFF_logo.png",LAFF
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ustvnow.com/channels/logo/dac29ef1df9002ccd97ea714093441f3.webp",LAFF
 https://is.gd/xIoi2E
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rush_logo.png",RUSHPRIME
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:RUSHPRIME.smil/playlist.m3u8
@@ -1137,7 +1137,7 @@ http://iptvcdn.airlinktt.co/ttorigin01/live/smil:PARAMOUNT.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SONY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png",SONY MOVIES
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SONY_MOVIES.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.seekpng.com/png/full/336-3361501_studio-universal-channel-logo.png",STUDIO UNIVERSAL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:STUDIO_UNIVERSAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/CINECANAL.png",CINECANAL
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CINECANAL.smil/playlist.m3u8
@@ -1163,7 +1163,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:COZI_TV.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:FYI.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.quadro.net/app/uploads/2020/07/WPIX-New-York-Logo.png",WPIX
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:WPIX.smil/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/KOMUCW.us.png",CW11 HD
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://geeksandgamers.com/wp-content/uploads/2022/11/cw.jpg",CW11 HD
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:CW11.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/TLC.us.png",TLC
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TLC.smil/playlist.m3u8
