@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://www.sloganlist.com/upfile/202010/2020102281882785.png",TTT
-http://iptvcdn.airlinktt.co/ttorigin01/live/smil:TTT.smil/playlist.m3u8
+https://131.72.76.184/live/smil:TTT.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209470_cnc3.jpeg" ,CNC3
-http://iptvcdn.airlinktt.co/ttorigin01/live/smil:CNC3.smil/playlist.m3u8
+https://131.72.76.184/live/smil:CNC3.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209567_tv6.png",TV6
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:TV6.smil/playlist.m3u8
 #EXTINF:-1 group-title="TRINIDAD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz5kAkoB0-LZZB0hLHmF7XyK4sVq52ZWI7_Y_Aj_dgWQ&s",IAN Network
