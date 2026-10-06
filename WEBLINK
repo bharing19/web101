@@ -149,8 +149,55 @@ http://s3.citrus3.com:8002/stream
 #EXTINF:-1 group-title="TRINIDAD RADIO" tvg-logo="https://play-lh.googleusercontent.com/zcCTEGhYxfWXqgB_tHNUgwuKcvCONsRvAbg48FXerRI32Vp6m7I1la2-re7Ydkqq3co",Fully Catholic Radio
 http://usa12.fastcast4u.com:5344/stream
 
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/4/4a/WPLGlogo.png/revision/latest?cb=20190331003100",ABC (WPLG) Miami FL
+https://131.72.76.184/ttorigin03/live/smil:ABC.smil/chunklist_b4000000_slen.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png",AL JAZEERA NEWS ENGLISH
+https://131.72.76.184/live/smil:ALJAZEERA.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/gb/BBCWorldNews.uk.png",BBC WORLD NEWS HD
+https://131.72.76.184/live/smil:BBC_WORLD.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmOg5dSUIaK8SL55_eVta1aIILSFGkritC-A&usqp=CAU",BLOOMBERG HD
+http://global-streamz.xyz:5050/roseriver50@gmail.com/y8BNYHrR4Q/418113
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CBC.ca.png",CBC TORONTO HD
+https://131.72.76.184/ttorigin07/live/smil:CBC.smil/chunklist_b4000000_slen.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-the-2nd-logo-11-1024x290.jpg",CBS
+https://131.72.76.184/ttorigin07/live/smil:CBS.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://picon-13398.kxcdn.com/cnbc.jpg",CNBC HD
+https://131.72.76.184/ttorigin07/live/smil:CNBC.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/250px-HLN_%28TV_network%29_2017_logo.svg.png",CNN HLN
+https://tvnow.best/api/stream/yale/yale/livetv.epg/hln.us.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN International
+https://131.72.76.184/ttorigin07/live/smil:CNN_INTERNATIONAL.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV NEWS HD 
+https://131.72.76.184/live/smil:CTV.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW NEWS
+https://131.72.76.184/ttorigin03/live/smil:DW_ENGLISH.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.france24.com/android-chrome-192x192.png",France 24 EN
+https://131.72.76.184/live/smil:FRANCE_24.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/FoxNews.us.png",FOX News
+https://131.72.76.184/ttorigin03/live/smil:FOX_NEWS.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://lo1.in/LOGO/US/USALOCAL/KTLALOSANGELES.png",KTLA LA
+https://tvnow.best/api/stream/yale/yale/livetv.epg/ktla.los.angeles.ca.us.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.chicagotribune.com/wp-content/uploads/2025/08/CTC-L-MSNBC-MSNOW-01.jpg",MSNBC HD
+https://131.72.76.184/live/smil:MSNBC.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://e7.pngegg.com/pngimages/222/499/png-clipart-news18-kerala-cnn-news18-television-network18-others-television-text.png",News 18
+https://186.96.222.105/LIVE/NEW18/stream_NEW18_HD_360p30.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://image.roku.com/developer_channels/prod/54d11237dc9d300eb0bfcf2b596c820d1f513459a3a4d4b7f69716d69aebe8d0.png",Newsmax TV
+https://131.72.76.184/ttorigin07/live/smil:NEWSMAX.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://lo1.in/LOGO/US/USANEWS/NEWSY.png",NEWSY
+https://131.72.76.184/ttorigin03/live/smil:NEWSY.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/cc/a4/16/cca41696-9d2f-a427-b6a6-beb1ea4762cd/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png",NHKWORLD
+https://131.72.76.184/live/smil:NHKWORLD.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://play-lh.googleusercontent.com/SOHJoCo5fXzsM81BuXjLs3Bzw6VUOS7uXPl-i06k2PIcSbXPbar7Ed0ctt7396BfPrA",SME
+https://131.72.76.184/ttorigin03/live/smil:SME.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/WeatherNation.us.png",The Weather Channel US
+https://131.72.76.184/ttorigin03/live/smil:WEATHER_CHANNEL.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1280px-Logo_Univision_2019.svg.png",UNIVISION 23
+https://131.72.76.184/ttorigin03/live/smil:UNIVISION.smil/chunklist_b4000000.m3u8
+
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209568_synergy-tv.png",SYNERGY TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="tvg-logo="http://131.72.76.174/client-portal/channel/1001659/logo_i68x46.png",VIBES
+https://131.72.76.184/live/smil:VIBES.smil/chunklist_b4000000_slen.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209566_wesn.png",WESN
@@ -1073,10 +1120,14 @@ http://195.26.87.217/live.ts?channelId=121&uid=7214&deviceMac=00:1A:79:0E:F9:25
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:TRINITY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ce/Islamic_Broadcasting_Network.png",Islamic Broadcasting Network
 http://131.72.76.184/ttorigin03/live/smil:IBN.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://theislamicnetwork.org/data/media/page_691dcc1bb54a38.16753739.png",DARUT TARBIYAH 
+https://186.96.222.105/LIVE/TIN/stream_TIN_HD_1080p30.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://afraraymond.files.wordpress.com/2020/12/tv-jaagriti-logo.jpg",JAAGRITI TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:JAAGRITI.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://caribbeangospel.tv/wp-content/uploads/2022/05/CGTV-FINAL-LOGO-1-1536x524.png",CGTV
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:CGTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="RELIGION" tvg-logo="https://images.squarespace-cdn.com/content/v1/69a0776dcbcad2186a388d9b/a7847886-0a28-4df2-9891-92e2521902c2/Riddim+%26+Hope+Official+Logo+2025.png",Riddim & Hope Network
+https://186.96.222.105/LIVE/RDMHP/stream_RDMHP_HD_1080p30.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81e3+kOXG5L.png",DAYSTAR
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:DAYSTAR.smil/playlist.m3u8
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://i.pinimg.com/originals/3c/e3/c8/3ce3c824928923014ef9aa83caefaaad.jpg",HILLSONG
@@ -1159,7 +1210,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:SPACE.smil/playlist.m3u8
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYFY.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.ustvnow.com/channels/logo/dac29ef1df9002ccd97ea714093441f3.webp",LAFF
 https://is.gd/xIoi2E
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Rush_logo.png",RUSHPRIME
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/yn9bk3q/download.jpg",RUSHPRIME
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:RUSHPRIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/Freeform.us.png",FREEFORM 
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:FREEFORM.smil/playlist.m3u8
