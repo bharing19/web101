@@ -166,7 +166,7 @@ https://131.72.76.184/ttorigin07/live/smil:CNBC.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/250px-HLN_%28TV_network%29_2017_logo.svg.png",CNN HLN
 https://tvnow.best/api/stream/yale/yale/livetv.epg/hln.us.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/us/CNN.us.png",CNN International
-https://131.72.76.184/ttorigin07/live/smil:CNN_INTERNATIONAL.smil/chunklist_b4000000.m3u8
+http://iptvcdn.airlinktt.co/ttorigin03/live/smil:CNN_INTERNATIONAL.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://static.epg.best/ca/CTVToronto.ca.png",CTV NEWS HD 
 https://131.72.76.184/live/smil:CTV.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW NEWS
