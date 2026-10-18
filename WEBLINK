@@ -196,7 +196,7 @@ https://131.72.76.184/ttorigin03/live/smil:UNIVISION.smil/chunklist_b4000000.m3u
 
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209568_synergy-tv.png",SYNERGY TV
 http://iptvcdn.airlinktt.co/ttorigin01/live/smil:SYNERGY.smil/playlist.m3u8
-#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="tvg-logo="http://131.72.76.174/client-portal/channel/1001659/logo_i68x46.png",VIBES
+#EXTINF:-1 group-title="CARIBBEAN" tvg-logo="tvg-logo="https://tinyurl.com/4k7jztxc",VIBES
 https://131.72.76.184/live/smil:VIBES.smil/chunklist_b4000000_slen.m3u8
 #EXTINF:-1 group-title="CARIBBEAN" tvg-logo="http://icntt.smartrix.tv/images/thumbs/0209657_mctv.jpeg",MCTV Caribbean
 http://iptvcdn.airlinktt.co/ttorigin03/live/smil:MCTV.smil/playlist.m3u8
@@ -3378,7 +3378,7 @@ http://iptvcdn.airlinktt.co/ttorigin07/live/smil:BABY_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8b/Anime_Network_2014_logo.png",ANIME
 http://iptvcdn.airlinktt.co/ttorigin07/live/smil:ANIME.smil/playlist.m3u8
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/aa7be678.jpg",Baby TV
-http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:0E:F9:25
+http://195.26.87.217/live.ts?channelId=242&uid=2568&deviceMac=00:1A:79:00:02:27
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/a5641735.jpg",Boomerang
 http://195.26.87.217/live.ts?channelId=243&uid=2568&deviceMac=00:1A:79:0E:F9:25
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ujm.from-in.com/imageicon/cartoonito.jpg",Cartoonito
